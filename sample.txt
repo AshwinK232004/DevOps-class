@@ -1,1 +1,4 @@
-hi this is sample from master
+
+hi this is sample from mastee
+hii this is sample from feature
+>>>>>>> feature
