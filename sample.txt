@@ -1,2 +1,1 @@
-hi iam ashwin
-i lev in banglore
+hi this is sample from master
